@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Samarthya 👋
 
-<!--
-**Sammyfied/Sammyfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who loves building things — currently focused on AI tools, semantic search, and full-stack web development.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: AI-powered web apps and developer tools
+- 🌱 Learning: React, Node.js, REST APIs, and diving deeper into ML
+- 💡 Interested in: AI/ML, Full-Stack Development, Open Source
+- 📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/samarthya-chaturvedi-53a2a91b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Tools & Frameworks**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [AI Semantic Search Chatbot](https://github.com/Sammyfied/ai-semantic-search-chatbot) | Ask questions about any PDF using vector embeddings and semantic search | Python, FAISS, Sentence Transformers, Streamlit | [Demo →]([https://your-streamlit-link-here](https://ai-semantic-search-chatbot-fggappz8g8gyqll8868au6q.streamlit.app/)) |
+
+<!-- Add more projects here as you build them -->
+
+---
+
+## 📊 GitHub Stats
+
+![Samarthya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammyfied&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammyfied&layout=compact&hide_border=true&theme=default)
+
+---
+
+*Always building. Always learning.*
+
