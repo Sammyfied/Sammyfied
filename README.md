@@ -5,7 +5,7 @@ I'm a Computer Science student who loves building things — currently focused o
 - 🔭 Currently building: AI-powered web apps and developer tools
 - 🌱 Learning: React, Node.js, REST APIs, and diving deeper into ML
 - 💡 Interested in: AI/ML, Full-Stack Development, Open Source
-- 📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/samarthya-chaturvedi-53a2a91b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 📫 Reach me: (https://www.linkedin.com/in/samarthya-chaturvedi-53a2a91b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
 
